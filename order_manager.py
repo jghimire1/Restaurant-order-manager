@@ -1,8 +1,6 @@
-# Project: Assignment set 7 - order_manager module
 # Depends on: combo_menu.py, order.py
 # Description:  Module to manage orders and their totals.
 # Author: Janardan Ghimire
-# Date: 12/11/2025
 
 #importing modules
 from combo_menu import Combo_Menu as CM
@@ -104,5 +102,6 @@ class Order_Manager:
             except Exception as e:
                 print(e)
         return result 
+
 
     
