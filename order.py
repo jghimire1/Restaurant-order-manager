@@ -1,9 +1,7 @@
 
-# Project: Assignment set 7 - order module
 # Depends on: combo_menu.py 
 # Description:  order class to create an order for a customer from the combo menu
 # Author: Janardan Ghimire
-# Date: 12/11/2025
 
 from combo_menu import Combo_Menu as CM 
 
@@ -42,4 +40,5 @@ class Order:
 
 
     
+
     
