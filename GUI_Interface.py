@@ -1,8 +1,6 @@
-# Project: Assignment set 7 prgroam 16 - GUI module
 # Depends on: combo_menu.py, order.py & order_manager.py
 # Description:  Module to take the user input and display the output
 # Author: Janardan Ghimire
-# Date: 12/12/2025
 
 import tkinter as tk
 from tkinter import messagebox
@@ -176,3 +174,4 @@ class Program16_GUI:
 if __name__ == "__main__":
     app = Program16_GUI()
     tk.mainloop()
+
