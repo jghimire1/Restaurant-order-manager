@@ -1,7 +1,7 @@
 # Restaurant Order Manager
 
 ## Overview
-The Restaurant Order Manager is a web application that allows restaurants to manage orders efficiently and effectively. This project simplifies the process of taking orders, managing inventory, and tracking sales.
+The Restaurant Order Manager is a web application that allows restaurants to manage orders efficiently and effectively. This project simplifies the process of taking orders, managing inventory, and tracking sales. This is work in progress. I have completed only ordering portion inventory management and other features are coming soon. 
 
 ## Features
 - **User-Friendly Interface**: Intuitive design for ease of use.
