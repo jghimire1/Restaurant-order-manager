@@ -1,8 +1,6 @@
-# Project: Assignment set 7 - UI module
 # Depends on: combo_menu.py, order.py & order_manager.py
 # Description:  Module to take the user input and display the output
 # Author: Janardan Ghimire
-# Date: 12/11/2025
 
 # importing necessary modules
 from combo_menu import Combo_Menu as CM
@@ -171,4 +169,5 @@ def exit_application() -> None:
 
 # calling the main function to start the UI module
 if __name__ == "__main__":
+
     main()
